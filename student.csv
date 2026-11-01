@@ -1,0 +1,16 @@
+Student_ID,Study_Hours,Attendance,Assignments_Score,Previous_Score,Participation,Internet_Usage,Result,Final_Marks
+1,2,65,60,55,Low,High,Fail,48
+2,5,75,70,65,Medium,Medium,Pass,62
+3,7,85,80,75,High,Low,Pass,78
+4,1,50,40,45,Low,High,Fail,35
+5,6,80,75,70,Medium,Medium,Pass,72
+6,8,90,85,80,High,Low,Pass,85
+7,3,60,55,50,Low,High,Fail,50
+8,9,95,90,88,High,Low,Pass,92
+9,4,70,65,60,Medium,Medium,Pass,66
+10,2,55,50,48,Low,High,Fail,45
+11,6,78,72,68,Medium,Medium,Pass,74
+12,7,88,82,77,High,Low,Pass,81
+13,3,62,58,54,Low,High,Fail,52
+14,5,76,70,67,Medium,Medium,Pass,69
+15,8,92,88,85,High,Low,Pass,89
